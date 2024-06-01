@@ -1,0 +1,22 @@
+.text-with-feather-icon-container{
+    border: 0.5px solid #e5e7eb;
+    display: inline-flex;
+    padding: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 8px;
+}
+
+.vertical-line{
+    border: 1.5px solid #e5e7eb;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.text-with-feather-icon-text{
+    color: black;
+    font-weight: bold;
+    font-size: small;
+    display: inline-flex;
+    align-items: center;
+}

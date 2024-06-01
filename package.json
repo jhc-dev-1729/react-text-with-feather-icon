@@ -1,0 +1,40 @@
+{
+  "name": "@jhc-dev-1729/react-text-with-feather-icon",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@jhc-dev-1729"
+  },
+  "version": "1.0.1",
+  "description": "Text with feather icon.",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "scripts": {
+    "rollup": "rollup -c"
+  },
+  "author": "jhc-dev-1729",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.3.3",
+    "react": "^18.3.1",
+    "tslib": "^2.6.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.8",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "11.1.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rollup": "^4.18.0",
+    "rollup-plugin-dts": "^6.1.1",
+    "rollup-plugin-postcss": "^4.0.2",
+    "tslib": "^2.6.2",
+    "typescript": "^5.4.5"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts"
+}
