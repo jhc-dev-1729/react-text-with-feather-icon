@@ -39,3 +39,6 @@ import { TextWithFeatherIcon } from "@jhc-dev-1729/react-text-with-feather-icon"
 | ---- | ---- | ----------- |
 | text | string | A text that will be displayed on a component. |
 | iconOptions | IconOptions \| undefined | -
+
+## License
+[MIT License](https://github.com/jhc-dev-1729/react-text-with-feather-icon/blob/master/LICENSE)
