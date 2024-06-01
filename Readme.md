@@ -6,6 +6,18 @@ A react component for front-end design.
 <img src="https://drive.google.com/thumbnail?id=1ma8H_QzsmBAajHx0qMZLxz8kbbE3F4hd" alt="sample"></img>
 </p>
 
+## Installation
+
+###  Install from the command line:
+```
+npm install @jhc-dev-1729/react-text-with-feather-icon@1.0.1
+```
+
+###  Install via package.json: 
+```
+"@jhc-dev-1729/react-text-with-feather-icon": "1.0.1"
+```
+
 ## Usage
 
 ```
